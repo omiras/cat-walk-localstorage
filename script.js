@@ -46,7 +46,7 @@ function catWalk() {
 
     }
 
-    // Ejercicio 4
+    // Ejercicio 3
 
     if (walkForwards) {
         img.style.left = (currentLeft + 10) + 'px';
