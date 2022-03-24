@@ -12,7 +12,7 @@ Ademas, haremos que la música solo suene cuando el gato baile. Modifica las var
 
 Utiliza localStorage para guardar el estado de movimiento del gato. Crea una propiedad localStorage.moveCat ; que valga true o false por ejemplo; y en función de dicho valor.
 
-Debes actulizar la propiedad localStorage.mover en el momento que hagas clic en alguno de los botones. Luego, al cargar de nuevo el script, carga el valor localStorage.moveCat en la variable de estado "moveCat". NO elimines la variable de estado "moveCat".
+Debes actulizar la propiedad localStorage.moveCat en el momento que hagas clic en alguno de los botones. Luego, al cargar de nuevo el script, carga el valor localStorage.moveCat en la variable de estado "moveCat". NO elimines la variable de estado "moveCat".
 
 **BONUS**: Puedes pensar en algun detalle visual para que se note cual es el estado que está activo en este momento, si "Bailar" o "Parar". Por ejemplo, puedes mostrar como deshabilitado el botón que esté acutalmente activo, para dar la sensación de que no puede pulsarlo de nuevo.
 
